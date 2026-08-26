@@ -1,0 +1,598 @@
+([('ChikoCafe.exe',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\build\\ChikoCafe\\ChikoCafe.exe',
+   'EXECUTABLE'),
+  ('PyQt5\\Qt5\\bin\\MSVCP140.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\MSVCP140_1.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\MSVCP140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Core.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Core.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5DBus.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5DBus.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Gui.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Gui.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Network.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Network.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Qml.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Qml.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5QmlModels.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5QmlModels.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Quick.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Quick.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5WebSockets.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5WebSockets.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Widgets.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Widgets.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\VCRUNTIME140.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\d3dcompiler_47.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\d3dcompiler_47.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\libEGL.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\libEGL.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\libGLESv2.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\libGLESv2.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\opengl32sw.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\opengl32sw.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\styles\\qwindowsvistastyle.dll',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\translations\\qt_ar.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_bg.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ca.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_cs.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_da.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_de.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_en.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_es.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fa.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fa.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fi.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fr.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_gd.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_gl.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_gl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_he.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ar.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_bg.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ca.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_cs.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_da.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_de.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_en.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_es.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_fr.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_gl.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_gl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_hu.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_it.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ja.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ko.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_pl.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ru.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_sk.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_sl.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_sl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_tr.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_uk.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_zh_CN.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_CN.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_hu.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_it.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ja.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ko.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_lt.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_lt.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_lv.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_pl.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_pt.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_pt.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ru.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sk.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sl.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sv.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_tr.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_uk.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_bg.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_en.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_fi.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_hu.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ja.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_sk.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_tr.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\QtCore.pyd',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\QtCore.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtGui.pyd',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\QtGui.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtWidgets.pyd',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('PyQt5\\sip.cp312-win_amd64.pyd',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\.venv\\Lib\\site-packages\\PyQt5\\sip.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\MSI\\AppData\\Local\\Programs\\Python\\Python312\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\MSI\\AppData\\Local\\Programs\\Python\\Python312\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('_bz2.pyd',
+   'C:\\Users\\MSI\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\MSI\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\MSI\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\MSI\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\MSI\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\MSI\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\MSI\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\MSI\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('assets\\americano.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe Accounting\\assets\\americano.png',
+   'DATA'),
+  ('assets\\aslashi.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe Accounting\\assets\\aslashi.png',
+   'DATA'),
+  ('assets\\black_tea.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe Accounting\\assets\\black_tea.png',
+   'DATA'),
+  ('assets\\blue_chocolate.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\assets\\blue_chocolate.png',
+   'DATA'),
+  ('assets\\cappuccino.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe Accounting\\assets\\cappuccino.png',
+   'DATA'),
+  ('assets\\espresso.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe Accounting\\assets\\espresso.png',
+   'DATA'),
+  ('assets\\hot_chocolate.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\assets\\hot_chocolate.png',
+   'DATA'),
+  ('assets\\ice_americano.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\assets\\ice_americano.png',
+   'DATA'),
+  ('assets\\ice_cappuccino.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\assets\\ice_cappuccino.png',
+   'DATA'),
+  ('assets\\ice_chocolate.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\assets\\ice_chocolate.png',
+   'DATA'),
+  ('assets\\ice_latte.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe Accounting\\assets\\ice_latte.png',
+   'DATA'),
+  ('assets\\ice_macchiato.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\assets\\ice_macchiato.png',
+   'DATA'),
+  ('assets\\latte.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe Accounting\\assets\\latte.png',
+   'DATA'),
+  ('assets\\macchiato_caramel.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\assets\\macchiato_caramel.png',
+   'DATA'),
+  ('assets\\macchiato_hazelnut.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\assets\\macchiato_hazelnut.png',
+   'DATA'),
+  ('assets\\macchiato_irish.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\assets\\macchiato_irish.png',
+   'DATA'),
+  ('assets\\mocha.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe Accounting\\assets\\mocha.png',
+   'DATA'),
+  ('assets\\pink_chocolate.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\assets\\pink_chocolate.png',
+   'DATA'),
+  ('assets\\turkish_coffee.png',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\assets\\turkish_coffee.png',
+   'DATA'),
+  ('base_library.zip',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\build\\ChikoCafe\\base_library.zip',
+   'DATA'),
+  ('fonts\\OFL-LICENSE.txt',
+   'D:\\Freelancing\\Projects\\Chiko Cafe Accounting\\fonts\\OFL-LICENSE.txt',
+   'DATA'),
+  ('fonts\\Vazirmatn-UI-Bold.ttf',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\fonts\\Vazirmatn-UI-Bold.ttf',
+   'DATA'),
+  ('fonts\\Vazirmatn-UI-Medium.ttf',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\fonts\\Vazirmatn-UI-Medium.ttf',
+   'DATA'),
+  ('fonts\\Vazirmatn-UI-Regular.ttf',
+   'D:\\Freelancing\\Projects\\Chiko Cafe '
+   'Accounting\\fonts\\Vazirmatn-UI-Regular.ttf',
+   'DATA'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\MSI\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\MSI\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('pyexpat.pyd',
+   'C:\\Users\\MSI\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('python3.dll',
+   'C:\\Users\\MSI\\AppData\\Local\\Programs\\Python\\Python312\\python3.dll',
+   'BINARY'),
+  ('python312.dll',
+   'C:\\Users\\MSI\\AppData\\Local\\Programs\\Python\\Python312\\python312.dll',
+   'BINARY'),
+  ('select.pyd',
+   'C:\\Users\\MSI\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\MSI\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\unicodedata.pyd',
+   'EXTENSION')],)
