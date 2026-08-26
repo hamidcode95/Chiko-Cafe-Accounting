@@ -11,7 +11,7 @@ from PyQt5.QtCore import Qt
 from PyQt5.QtGui import QFont, QDoubleValidator
 from PyQt5.QtWidgets import (
     QDialog, QVBoxLayout, QHBoxLayout, QLabel, QComboBox, QPushButton,
-    QLineEdit, QMessageBox,
+    QLineEdit, QMessageBox, QSpinBox,
 )
 
 from menu_data import MENU_ITEMS
@@ -86,6 +86,16 @@ class BackdateSaleDialog(QDialog):
         layout.addLayout(price_row)
         self._prefill_price()
 
+        # --- Quantity ---
+        qty_row = QHBoxLayout()
+        qty_row.addWidget(QLabel("تعداد:"))
+        self.qty_spin = QSpinBox()
+        self.qty_spin.setRange(1, 500)
+        self.qty_spin.setValue(1)
+        qty_row.addWidget(self.qty_spin)
+        qty_row.addStretch()
+        layout.addLayout(qty_row)
+
         layout.addStretch()
 
         # --- Buttons ---
@@ -99,9 +109,9 @@ class BackdateSaleDialog(QDialog):
         submit_btn.clicked.connect(self._submit)
         btn_row.addWidget(submit_btn)
 
-        cancel_btn = QPushButton("انصراف")
-        cancel_btn.clicked.connect(self.reject)
-        btn_row.addWidget(cancel_btn)
+        close_btn = QPushButton("بستن")
+        close_btn.clicked.connect(self.reject)
+        btn_row.addWidget(close_btn)
         layout.addLayout(btn_row)
 
     def _populate_dates(self):
@@ -148,17 +158,24 @@ class BackdateSaleDialog(QDialog):
         except ValueError:
             price = 0
 
+        quantity = self.qty_spin.value()
+
         try:
-            new_count = excel_manager.record_sale(item_key, price, date_str)
+            new_count = None
+            for _ in range(quantity):
+                new_count = excel_manager.record_sale(item_key, price, date_str)
         except Exception as exc:
             QMessageBox.critical(self, "خطا در ثبت فروش", str(exc))
             return
 
         self.on_submit(item_key, price, date_str)
         item_name = self.item_combo.currentText()
+        qty_note = f" ({quantity} عدد)" if quantity > 1 else ""
         QMessageBox.information(
             self, "ثبت شد",
-            f"فروش «{item_name}» برای تاریخ {date_utils.to_display(date_str)} "
+            f"فروش «{item_name}»{qty_note} برای تاریخ {date_utils.to_display(date_str)} "
             f"ثبت شد.\n(تعداد فروش این مورد در آن روز اکنون: {new_count})"
         )
-        self.accept()
+        # keep the dialog open in case the user wants to add more drinks -
+        # just reset the quantity so a stray click doesn't double-submit.
+        self.qty_spin.setValue(1)

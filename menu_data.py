@@ -10,18 +10,20 @@ MENU_ITEMS = [
     # --- Row 1 : Hot classics ---
     {"key": "aslashi", "name": "اسلاشی (یخ در بهشت)", "icon": "aslashi.png", "row": 0, "col": 0},
     {"key": "espresso", "name": "اسپرسو", "icon": "espresso.png", "row": 0, "col": 1},
-    {"key": "americano", "name": "امریکانو", "icon": "americano.png", "row": 0, "col": 2},
-    {"key": "latte", "name": "لاته", "icon": "latte.png", "row": 0, "col": 3},
-    {"key": "cappuccino", "name": "کاپوچینو", "icon": "cappuccino.png", "row": 0, "col": 4},
-    {"key": "hot_chocolate", "name": "هات چاکلت", "icon": "hot_chocolate.png", "row": 0, "col": 5},
+    {"key": "espresso_single", "name": "اسپرسو سینگل", "icon": "espresso.png", "row": 0, "col": 2},
+    {"key": "americano", "name": "امریکانو", "icon": "americano.png", "row": 0, "col": 3},
+    {"key": "latte", "name": "لاته", "icon": "latte.png", "row": 0, "col": 4},
+    {"key": "cappuccino", "name": "کاپوچینو", "icon": "cappuccino.png", "row": 0, "col": 5},
+    {"key": "hot_chocolate", "name": "هات چاکلت", "icon": "hot_chocolate.png", "row": 0, "col": 6},
 
-    # --- Row 2 : Chocolates / Macchiato group / Mocha ---
+    # --- Row 2 : Chocolates / Macchiato group / Mocha / Cortado ---
     {"key": "pink_chocolate", "name": "پینک چاکلت", "icon": "pink_chocolate.png", "row": 1, "col": 0},
     {"key": "blue_chocolate", "name": "بلو چاکلت", "icon": "blue_chocolate.png", "row": 1, "col": 1},
     {"key": "macchiato_caramel", "name": "ماکیاتو کارامل", "icon": "macchiato_caramel.png", "row": 1, "col": 2, "group": "macchiato"},
     {"key": "macchiato_hazelnut", "name": "ماکیاتو فندق", "icon": "macchiato_hazelnut.png", "row": 1, "col": 3, "group": "macchiato"},
     {"key": "macchiato_irish", "name": "ماکیاتو ایریش", "icon": "macchiato_irish.png", "row": 1, "col": 4, "group": "macchiato"},
-    {"key": "mocha", "name": "موکا", "icon": "mocha.png", "row": 1, "col": 5},
+    {"key": "mocha", "name": "موکا", "icon": "mocha.png", "row": 1, "col": 5, "group": "macchiato"},
+    {"key": "cortado", "name": "کورتادو", "icon": "cappuccino.png", "row": 1, "col": 6},
 
     # --- Row 3 : Iced & other drinks ---
     {"key": "ice_americano", "name": "ایس امریکانو", "icon": "ice_americano.png", "row": 2, "col": 0},
