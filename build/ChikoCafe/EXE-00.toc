@@ -79,7 +79,7 @@
  [],
  False,
  False,
- 1787722138,
+ 1787724722,
  [('runw.exe',
    'D:\\Freelancing\\Projects\\Chiko Cafe '
    'Accounting\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
